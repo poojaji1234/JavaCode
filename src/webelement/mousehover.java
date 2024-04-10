@@ -26,7 +26,7 @@ public class mousehover {
 		act.moveByOffset(468, 38).perform();
 		
 		Thread.sleep(4000);
-		// Actions wo = act.moveToElement(women, 186, 40);
+	//	Actions wo = act.moveToElement(women, 186, 40);
 		//wo.click(women).perform();
 		
 	}
